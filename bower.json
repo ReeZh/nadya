@@ -1,0 +1,29 @@
+{
+  "name": "nadya",
+  "version": "0.1.0",
+  "homepage": "https://github.com/ReeZh/nadya",
+  "authors": [
+    "ReeZh Design <reezhdesign@gmail.com>"
+  ],
+  "description": "Nadya HTML Project",
+  "main": "gruntfile.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "html"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bxslider-4": "~4.2.3",
+    "flexslider": "*",
+    "fontawesome": "~4.3.0",
+    "owl.carousel": "*"
+  }
+}
