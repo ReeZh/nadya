@@ -18,12 +18,14 @@
     "node_modules",
     "bower_components",
     "test",
+    ".test",
     "tests"
   ],
   "dependencies": {
-    "bxslider-4": "~4.2.3",
-    "flexslider": "*",
-    "fontawesome": "~4.3.0",
-    "owl.carousel": "*"
+    "flexslider": "~2.6.0",
+    "owl.carousel": "~2.0.0",
+    "jquery": "~2.2.0",
+    "bootstrap-sass": "^3.3.6",
+    "font-awesome": "^4.5.0"
   }
 }
